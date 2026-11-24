@@ -16,12 +16,16 @@ Uploaded HTML and CSS files to S3.
 
 
 
-Explored S3 bucket permissions and access control.
+Configured static website hosting.
+
 
 <img width="1892" height="961" alt="b2" src="https://github.com/user-attachments/assets/946860aa-3a7a-4999-a216-b34dbffaec02" />
 
 
-Configured static website hosting.
+
+
+Explored S3 bucket permissions and access control.
+
 
 <img width="1907" height="1022" alt="b3" src="https://github.com/user-attachments/assets/a5b2f77d-5f23-4302-9781-af113bd30b3f" />
 
